@@ -1,1 +1,1 @@
-Place all your checkpoints (.pth files) here. 
+ana wlh ghir nabghik
